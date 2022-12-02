@@ -27,7 +27,7 @@ export const VBuyBookView: React.FC<PropsWithChildren<Props>> = (props: PropsWit
 
                             <div>
                                 <h1>{item.title}</h1>
-                                <p>{item.count} X {item.pret} lei</p>
+                                <p>{item.count} x {item.pret} lei</p>
                             </div>
 
                         </Style.InfoBuyBook>
